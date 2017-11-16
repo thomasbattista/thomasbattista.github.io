@@ -1,7 +1,5 @@
 ### Thomas Battista
 
-### Markdown
-
 # Uno
 https://github.com/thomasbattista/Avalanche
 
