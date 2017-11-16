@@ -1,49 +1,98 @@
-# Thomas Battista
+<html lang="en-US"><head>
+    <meta charset="UTF-8">
 
-## [Augmented Reality Magic Book](http://libnews.binghamton.edu/news/armb/about/)
-- Assisted in development of the Augmented Reality Magic Book at Binghamton University.
-- Created classes and functions to work with a program that creates an XML Document of the book.
-- Worked with private git server and GitLab to organize code.
-- Used C# in Visual Studio to write the code.
+<!-- Begin Jekyll SEO tag v2.3.0 -->
+<title>Thomas Battista | thomasbattista.github.io</title>
+<meta property="og:title" content="Thomas Battista">
+<meta property="og:locale" content="en_US">
+<link rel="canonical" href="https://thomasbattista.github.io/">
+<meta property="og:url" content="https://thomasbattista.github.io/">
+<meta property="og:site_name" content="thomasbattista.github.io">
+<script type="application/ld+json">
+{"name":"thomasbattista.github.io","description":null,"author":null,"@type":"WebSite","url":"https://thomasbattista.github.io/","image":null,"publisher":null,"headline":"Thomas Battista","dateModified":null,"datePublished":null,"sameAs":null,"mainEntityOfPage":null,"@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
 
-<html>
- <body>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/OZsWVDJe8ZA" frameborder="0" allowfullscreen></iframe>
-  </body>
-</html>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="/assets/css/style.css?v=fd641cd46cc2c141c0b3ca2355c1a63bca9f0448">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">Thomas Battista</h1>
+      <h2 class="project-tagline"></h2>
+      
+      
+    </section>
 
-## [Avalanche](https://github.com/thomasbattista/Avalanche)
-- Created a simple Android game using Android Studio.
-- Players use touch screen to move player horizontally to avoid falling objects.
-<html>
- <body>
-  <img src="https://github.com/thomasbattista/thomasbattista.github.io/blob/master/photos/Avalanche_homescreen.png" width = "400" height = "auto" />
-  <img src="https://github.com/thomasbattista/thomasbattista.github.io/blob/master/photos/Avalanche_gameplay.png" width = "400" height = "auto" />
-  <img src="https://github.com/thomasbattista/thomasbattista.github.io/blob/master/photos/Avalanche_highscorescreen.png" width = "400" height = "auto" />
- </body>
-</html>
+    <section class="main-content">
+      
 
-## [Baseball Simulator](https://github.com/thomasbattista/BaseballSim)
-- Developed a text-based program that simulates a game of baseball in C++.
-- Reads in a csv file of both teams with players and their attributes.
-- Created during Hack BU’s 2015 Hackathon in 36 hours.
+<h2 id="augmented-reality-magic-book"><a href="http://libnews.binghamton.edu/news/armb/about/">Augmented Reality Magic Book</a></h2>
+<ul>
+  <li>Assisted in development of the Augmented Reality Magic Book at Binghamton University.</li>
+  <li>Created classes and functions to work with a program that creates an XML Document of the book.</li>
+  <li>Worked with private git server and GitLab to organize code.</li>
+  <li>Used C# in Visual Studio to write the code.</li>
+</ul>
 
-<html>
- <body>
-  <img src="https://github.com/thomasbattista/thomasbattista.github.io/blob/master/photos/Baseball_sim1.png" width = "400" height = "auto" />
-  <img src="https://github.com/thomasbattista/thomasbattista.github.io/blob/master/photos/Baseball_sim2.png" width = "400" height = "auto" />
-  <img src="https://github.com/thomasbattista/thomasbattista.github.io/blob/master/photos/Baseball_sim3.png" width = "400" height = "auto" />
-  </body>
-</html>
 
-## [Uno](https://github.com/thomasbattista/Avalanche)
-- Recreated the card game UNO using Python.
-- Game has a point and click GUI which uses pygame.
+ 
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/OZsWVDJe8ZA" frameborder="0" allowfullscreen=""></iframe>
+  
 
-<html>
- <body>
-  <img src="https://github.com/thomasbattista/thomasbattista.github.io/blob/master/photos/Uno1.png" width = "400" height = "auto" />
-  <img src="https://github.com/thomasbattista/thomasbattista.github.io/blob/master/photos/Uno2.png" width = "400" height = "auto" />
-  <img src="https://github.com/thomasbattista/thomasbattista.github.io/blob/master/photos/Uno3.png" width = "400" height = "auto" />
- </body>
-</html>
+
+<h2 id="avalanche"><a href="https://github.com/thomasbattista/Avalanche">Avalanche</a></h2>
+<ul>
+  <li>Created a simple Android game using Android Studio.</li>
+  <li>Players use touch screen to move player horizontally to avoid falling objects.</li>
+</ul>
+
+ 
+  <img src="https://github.com/thomasbattista/thomasbattista.github.io/blob/master/photos/Avalanche_homescreen.png" width="400" height="auto">
+  <img src="https://github.com/thomasbattista/thomasbattista.github.io/blob/master/photos/Avalanche_gameplay.png" width="400" height="auto">
+  <img src="https://github.com/thomasbattista/thomasbattista.github.io/blob/master/photos/Avalanche_highscorescreen.png" width="400" height="auto">
+ 
+
+
+<h2 id="baseball-simulator"><a href="https://github.com/thomasbattista/BaseballSim">Baseball Simulator</a></h2>
+<ul>
+  <li>Developed a text-based program that simulates a game of baseball in C++.</li>
+  <li>Reads in a csv file of both teams with players and their attributes.</li>
+  <li>Created during Hack BU’s 2015 Hackathon in 36 hours.</li>
+</ul>
+
+
+ 
+  <img src="https://github.com/thomasbattista/thomasbattista.github.io/blob/master/photos/Baseball_sim1.png" width="400" height="auto">
+  <img src="https://github.com/thomasbattista/thomasbattista.github.io/blob/master/photos/Baseball_sim2.png" width="400" height="auto">
+  <img src="https://github.com/thomasbattista/thomasbattista.github.io/blob/master/photos/Baseball_sim3.png" width="400" height="auto">
+  
+
+
+<h2 id="uno"><a href="https://github.com/thomasbattista/Avalanche">Uno</a></h2>
+<ul>
+  <li>Recreated the card game UNO using Python.</li>
+  <li>Game has a point and click GUI which uses pygame.</li>
+</ul>
+
+
+ 
+  <img src="https://github.com/thomasbattista/thomasbattista.github.io/blob/master/photos/Uno1.png" width="400" height="auto">
+  <img src="https://github.com/thomasbattista/thomasbattista.github.io/blob/master/photos/Uno2.png" width="400" height="auto">
+  <img src="https://github.com/thomasbattista/thomasbattista.github.io/blob/master/photos/Uno3.png" width="400" height="auto">
+ 
+
+
+
+      <footer class="site-footer">
+        
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</span>
+      </footer>
+    </section>
+
+    
+  
+
+</body></html>
