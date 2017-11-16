@@ -50,9 +50,9 @@
 </ul>
 
  
-  <img src="https://github.com/thomasbattista/thomasbattista.github.io/blob/master/photos/Avalanche_homescreen.png" width="400" height="auto">
-  <img src="https://github.com/thomasbattista/thomasbattista.github.io/blob/master/photos/Avalanche_gameplay.png" width="400" height="auto">
-  <img src="https://github.com/thomasbattista/thomasbattista.github.io/blob/master/photos/Avalanche_highscorescreen.png" width="400" height="auto">
+  <img src="http://github.com/thomasbattista/thomasbattista.github.io/blob/master/photos/Avalanche_homescreen.png" width="400" height="auto">
+  <img src="http://github.com/thomasbattista/thomasbattista.github.io/blob/master/photos/Avalanche_gameplay.png" width="400" height="auto">
+  <img src="http://github.com/thomasbattista/thomasbattista.github.io/blob/master/photos/Avalanche_highscorescreen.png" width="400" height="auto">
  
 
 
@@ -65,9 +65,9 @@
 
 
  
-  <img src="https://github.com/thomasbattista/thomasbattista.github.io/blob/master/photos/Baseball_sim1.png" width="400" height="auto">
-  <img src="https://github.com/thomasbattista/thomasbattista.github.io/blob/master/photos/Baseball_sim2.png" width="400" height="auto">
-  <img src="https://github.com/thomasbattista/thomasbattista.github.io/blob/master/photos/Baseball_sim3.png" width="400" height="auto">
+  <img src="http://github.com/thomasbattista/thomasbattista.github.io/blob/master/photos/Baseball_sim1.png" width="400" height="auto">
+  <img src="http://github.com/thomasbattista/thomasbattista.github.io/blob/master/photos/Baseball_sim2.png" width="400" height="auto">
+  <img src="http://github.com/thomasbattista/thomasbattista.github.io/blob/master/photos/Baseball_sim3.png" width="400" height="auto">
   
 
 
@@ -79,9 +79,9 @@
 
 
  
-  <img src="https://github.com/thomasbattista/thomasbattista.github.io/blob/master/photos/Uno1.png" width="400" height="auto">
-  <img src="https://github.com/thomasbattista/thomasbattista.github.io/blob/master/photos/Uno2.png" width="400" height="auto">
-  <img src="https://github.com/thomasbattista/thomasbattista.github.io/blob/master/photos/Uno3.png" width="400" height="auto">
+  <img src="http://github.com/thomasbattista/thomasbattista.github.io/blob/master/photos/Uno1.png" width="400" height="auto">
+  <img src="http://github.com/thomasbattista/thomasbattista.github.io/blob/master/photos/Uno2.png" width="400" height="auto">
+  <img src="http://github.com/thomasbattista/thomasbattista.github.io/blob/master/photos/Uno3.png" width="400" height="auto">
  
 
 
