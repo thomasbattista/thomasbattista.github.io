@@ -21,7 +21,7 @@
   <img src="https://github.com/thomasbattista/thomasbattista.github.io/blob/master/photos/Avalanche_gameplay.png" width = "400" height = "auto" />
   <img src="https://github.com/thomasbattista/thomasbattista.github.io/blob/master/photos/Avalanche_highscorescreen.png" width = "400" height = "auto" />
  </body>
-<html>
+</html>
 
 ## [Baseball Simulator](https://github.com/thomasbattista/BaseballSim)
 - Developed a text-based program that simulates a game of baseball in C++.
@@ -34,7 +34,7 @@
   <img src="https://github.com/thomasbattista/thomasbattista.github.io/blob/master/photos/Baseball_sim2.png" width = "400" height = "auto" />
   <img src="https://github.com/thomasbattista/thomasbattista.github.io/blob/master/photos/Baseball_sim3.png" width = "400" height = "auto" />
   </body>
-<html>
+</html>
 
 ## [Uno](https://github.com/thomasbattista/Avalanche)
 - Recreated the card game UNO using Python.
@@ -46,4 +46,4 @@
   <img src="https://github.com/thomasbattista/thomasbattista.github.io/blob/master/photos/Uno2.png" width = "400" height = "auto" />
   <img src="https://github.com/thomasbattista/thomasbattista.github.io/blob/master/photos/Uno3.png" width = "400" height = "auto" />
  </body>
-<html>
+</html>
