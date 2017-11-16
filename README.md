@@ -1,10 +1,7 @@
 ### Thomas Battista
 
-# Uno
-https://github.com/thomasbattista/Avalanche
+# [Uno](https://github.com/thomasbattista/Avalanche)
 
-# Baseball Simulator
-https://github.com/thomasbattista/BaseballSim
+# [Baseball Simulator](https://github.com/thomasbattista/BaseballSim)
 
-# Avalanche
-https://github.com/thomasbattista/Avalanche
+# [Avalanche](https://github.com/thomasbattista/Avalanche)
