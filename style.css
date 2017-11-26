@@ -1,0 +1,26 @@
+#main-content
+{
+	text-align: left;
+	background-color: #AAAAAA;
+	background-size: cover;
+	color: white;
+	font-family: helvetica;
+	padding: 10px;
+}
+
+#page-header
+{
+	text-align: center;
+	
+}
+
+.headshot
+{
+	margin: 20px 0px 0px 0px;
+	border: 7px solid white;
+	border-radius: 20px;
+	width: 150px;
+	height: 150px;
+}
+
+    
