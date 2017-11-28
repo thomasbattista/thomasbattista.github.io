@@ -1,26 +1,112 @@
-#main-content
+body 
 {
-	text-align: left;
-	background-color: #AAAAAA;
-	background-size: cover;
-	color: white;
-	font-family: helvetica;
-	padding: 10px;
+	margin: 0;
+}
+
+a:link
+{
+	color: #090909;
+	text-decoration: none;
+}
+
+a:visited
+{
+	color: #090909;
+	text-decoration: none;
+}
+
+a:hover
+{
+	color: #090909;
+	text-decoration: underline;
+}
+
+a:active {
+	color: #090909;
+    text-decoration: underline;
+}
+
+ul {
+    list-style-type: square;
+    margin: 5px;
+    padding: 5px;
 }
 
 #page-header
 {
 	text-align: center;
-	
+	background-color: #CCCCCC;
+	font-family: 'Ubuntu', sans-serif;
+	margin: 0;
+	padding: 20px;
 }
+
+
 
 .headshot
 {
-	margin: 20px 0px 0px 0px;
+	margin: 5px 0px 0px 0px;
 	border: 7px solid white;
 	border-radius: 20px;
 	width: 150px;
 	height: 150px;
 }
+
+#main-content
+{
+	text-align: left;	
+	background-size: cover;
+	color: #090909;
+	font-family: helvetica;
+	margin: 0;
+}
+
+.inner
+{
+	max-width: 1024px;
+	margin: 0 auto;
+}
+
+.ARMB
+{
+	background-color: #8CA3C4;
+	
+	padding: 20px;
+
+}
+
+.avalanche
+{
+	background-color: #bca998;
+	
+	padding: 20px;
+
+}
+
+.baseball
+{
+	background-color: #b7b67e;
+	
+	padding: 20px;
+}
+
+.uno
+{
+	background-color: #8b8099;
+	
+	padding: 20px;
+}
+/*
+#main-content
+{
+	position: relative;
+	max-width: 350px;
+	margin: 0 auto;
+	margin-bottom: 25px;
+}*/
+
+
+
+
 
     
