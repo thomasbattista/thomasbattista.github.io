@@ -35,7 +35,7 @@ ul {
 #page-header
 {
 	text-align: center;
-	background-color: #CCCCCC;
+	background-color: #DDD;
 	font-family: 'Ubuntu', sans-serif;
 	margin: 0;
 	padding: 20px;
@@ -65,19 +65,45 @@ ul {
 {
 	max-width: 1024px;
 	margin: 0 auto;
+	background-color: rgba(233, 233, 233,.85);
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	margin-top: -20px;
+	margin-bottom: -20px;
+}
+
+.BUlogo
+{
+	
+	width: 150px;
+	height: 150px;
+}
+
+.education
+{
+	background-image: url("https://www.suny.edu/media/suny/content-assets/images/campus-profiles/pics/binghamton.jpg");
+	background-size: cover;
+	padding: 20px;
 }
 
 .ARMB
 {
-	background-color: #8CA3C4;
-	
+	/*background-color: #8CA3C4;	*/
+
+	background-image: url("https://static.pexels.com/photos/270571/pexels-photo-270571.jpeg");
+	background-size: cover;
 	padding: 20px;
 
 }
 
 .avalanche
 {
-	background-color: #bca998;
+	background-image: url("https://upload.wikimedia.org/wikipedia/commons/5/51/4-17-2013_-_West_Tunnel_icicles_%288660718177%29.jpg");
+	
+	background-size: cover;
+	/*box-shadow: inset 0 0 0 1000px rgba(188,169,152,.95);*/
 	
 	padding: 20px;
 
@@ -85,16 +111,24 @@ ul {
 
 .baseball
 {
-	background-color: #b7b67e;
 	
+	background-image: url("https://static.pexels.com/photos/89699/pexels-photo-89699.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	/*background-color: rgba(5,5,5,.5);*/
+	/*box-shadow: inset 0 0 0 1000px rgba(183,182,126,.95);*/
 	padding: 20px;
 }
 
 .uno
 {
-	background-color: #8b8099;
+	background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/UNO_cards_deck.svg/1195px-UNO_cards_deck.svg.png");
+	background-size: cover;
+	box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, .4);
+	/*background-color: #8b8099;*/
 	
 	padding: 20px;
+	
 }
 /*
 #main-content
@@ -104,9 +138,3 @@ ul {
 	margin: 0 auto;
 	margin-bottom: 25px;
 }*/
-
-
-
-
-
-    
