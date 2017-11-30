@@ -35,7 +35,9 @@ ul {
 #page-header
 {
 	text-align: center;
-	background-color: #DDD;
+	background-image: url("https://static.pexels.com/photos/160107/pexels-photo-160107.jpeg");
+	background-size: cover;
+	background-position: center, center;
 	font-family: 'Ubuntu', sans-serif;
 	margin: 0;
 	padding: 20px;
@@ -72,6 +74,32 @@ ul {
 	padding-left: 20px;
 	margin-top: -20px;
 	margin-bottom: -20px;
+	overflow:auto;
+}
+
+div.gallery {
+
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 30%;
+    height: auto;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img
+{
+	overflow:auto;
+    width: 100%;
+    height: auto;
+}
+
+div.gal_desc {
+    padding: 15px;
+    text-align: center;
 }
 
 .BUlogo
@@ -85,6 +113,7 @@ ul {
 {
 	background-image: url("https://www.suny.edu/media/suny/content-assets/images/campus-profiles/pics/binghamton.jpg");
 	background-size: cover;
+	background-position: bottom;
 	padding: 20px;
 }
 
@@ -100,6 +129,7 @@ ul {
 
 .avalanche
 {
+	overflow:auto;
 	background-image: url("https://upload.wikimedia.org/wikipedia/commons/5/51/4-17-2013_-_West_Tunnel_icicles_%288660718177%29.jpg");
 	
 	background-size: cover;
@@ -111,7 +141,8 @@ ul {
 
 .baseball
 {
-	
+	clear: both;
+	overflow:auto;
 	background-image: url("https://static.pexels.com/photos/89699/pexels-photo-89699.jpeg");
 	background-repeat: no-repeat;
 	background-size: cover;
