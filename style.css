@@ -5,41 +5,47 @@ body
 
 a:link
 {
-	color: #090909;
+	color: #159957;
 	text-decoration: none;
 }
 
 a:visited
 {
-	color: #090909;
+	color: #159957;
 	text-decoration: none;
 }
 
 a:hover
 {
-	color: #090909;
+	color: #159957;
 	text-decoration: underline;
 }
 
 a:active {
-	color: #090909;
+	color: #159957;
     text-decoration: underline;
 }
 
 ul {
-    list-style-type: square;
-    margin: 5px;
-    padding: 5px;
+    list-style-type: circle;
+    /*margin: 5px;
+    padding: 5px;*/
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	line-height: .5;
 }
+
+
 
 #page-header
 {
+	color: #ffffff;
 	text-align: center;
 	background-image: url("photos/page_header.jpeg");
 	/*from https://static.pexels.com/photos/160107/pexels-photo-160107.jpeg */
 	background-size: cover;
 	background-position: center, center;
-	font-family: 'Ubuntu', sans-serif;
+	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	margin: 0;
 	padding: 20px;
 }
@@ -60,15 +66,28 @@ ul {
 	text-align: left;	
 	background-size: cover;
 	color: #090909;
-	font-family: helvetica;
+	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	line-height: 1.5;
 	margin: 0;
+	h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: normal;
+    color: #606c71;
+}
 }
 
 .inner
 {
 	max-width: 1024px;
 	margin: 0 auto;
-	background-color: rgba(233, 233, 233,.85);
+	/*background-color: rgba(233, 233, 233,.85);*/
 	padding-top: 10px;
 	padding-right: 20px;
 	padding-bottom: 20px;
@@ -110,20 +129,25 @@ div.gal_desc {
 	height: 150px;
 }
 
+
+/*.coursework
+{
+	ul{
+		
+	}
+}*/
 .education
 {
-	background-image: url("photos/Bing_U.jpg");
-	/*From https://www.suny.edu/media/suny/content-assets/images/campus-profiles/pics/binghamton.jpg*/
-	background-size: cover;
+	/*background-image: url("photos/Bing_U.jpg");
+	From https://www.suny.edu/media/suny/content-assets/images/campus-profiles/pics/binghamton.jpg
+	background-size: cover;*/
 	background-position: bottom;
 	padding: 5px 20px 20px 20px;
 }
 
 .ARMB
 {
-	background-image: url("photos/Library.jpeg");
-	/*From https://static.pexels.com/photos/270571/pexels-photo-270571.jpeg*/
-	background-size: cover;
+	
 	padding: 5px 20px 20px 20px;
 
 }
@@ -131,9 +155,7 @@ div.gal_desc {
 .avalanche
 {
 	overflow:auto;
-	background-image: url("photos/Icicles.jpg");
-	/* From https://upload.wikimedia.org/wikipedia/commons/5/51/4-17-2013_-_West_Tunnel_icicles_%288660718177%29.jpg */
-	background-size: cover;
+	
 	padding: 5px 20px 20px 20px;
 
 }
@@ -142,10 +164,7 @@ div.gal_desc {
 {
 	clear: both;
 	overflow:auto;
-	background-image: url("photos/Baseball_Field.jpeg");
-	/*From "https://static.pexels.com/photos/89699/pexels-photo-89699.jpeg"*/
-	background-repeat: no-repeat;
-	background-size: cover;
+	
 	padding: 5px 20px 20px 20px;
 }
 
@@ -153,10 +172,6 @@ div.gal_desc {
 {
 	clear: both;
 	overflow:auto;
-	background-image: url("photos/Uno_cards.png");
-	/* From https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/UNO_cards_deck.svg/1195px-UNO_cards_deck.svg.png */
-	background-size: cover;
-	box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, .4);
 	/*background-color: #8b8099;*/
 	
 	padding: 5px 20px 20px 20px;
