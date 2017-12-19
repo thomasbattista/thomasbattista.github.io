@@ -1,4 +1,22 @@
 <html lang="en-US">
+	<script>
+		function showCoursework()
+		{
+			var btn = document.getElementById("button1");
+			var x = document.getElementById("coursework");
+			if (x.style.display == "block") 
+			{
+				x.style.display = "none";
+				btn.innerHTML = "Show courses";
+			}
+			else
+			{
+				x.style.display = "block";
+				btn.innerHTML = "Hide courses";
+			}
+		}
+	</script>
+
 	<head>
 		<title>Thomas Battista</title>
 		<link rel="stylesheet" type="text/css" href="style.css" />
@@ -26,26 +44,28 @@
 							In May of 2017, I recieved my Bachelor's of Science in Computer Science from Binghamton University.
 						</p>
 						<img class="BUlogo" src="https://pbs.twimg.com/profile_images/571156150767190016/mJbQWBIV.jpeg" alt= 'BU logo'>
-						
-						<div class="coursework">
-							<ul>Intro Topics In Computer Science (CS 101)</ul>
-							<ul>Computer Systems I: Machine Organization (CS 120)</ul>
-							<ul>Programming with Objects (CS 140)</ul>
-							<ul>Computer Systems II: Architecture and Programming (CS 220)</ul>
-							<ul>Data Structures and Algorithms (CS 240)</ul>
-							<ul>Computer Systems III: Advanced Computer Architecture (CS 320)</ul>
-							<ul>Ethical, Social, and Global Issues in Computing (CS 301)</ul>
-							<ul>Design and Analysis of Algorithms (CS 375)</ul>
-							<ul>Operating Systems (CS 350)</ul>
-							<ul>Automata Theory and Formal Languages (CS 373)</ul>
-							<ul>Computer Networks (CS 428)</ul>
-							<ul>Database Systems (CS 432)</ul>
-							<ul>Programming Languages (CS 471)</ul>
-							<ul>Game Development for Mobile Platforms (CS 441)</ul>
-							<ul>Design Patterns (CS 442)</ul>
-
+						<button class="button1" id="button1" onclick="showCoursework()">
+							Show courses
+						</button>
+						<div id="coursework">
+							<ul>
+								<li>Intro Topics In Computer Science (CS 101)</li>
+								<li>Computer Systems I: Machine Organization (CS 120)</li>
+								<li>Programming with Objects (CS 140)</li>
+								<li>Computer Systems II: Architecture and Programming (CS 220)</li>
+								<li>Data Structures and Algorithms (CS 240)</li>
+								<li>Computer Systems III: Advanced Computer Architecture (CS 320)</li>
+								<li>Ethical, Social, and Global Issues in Computing (CS 301)</li>
+								<li>Design and Analysis of Algorithms (CS 375)</li>
+								<li>Operating Systems (CS 350)</li>
+								<li>Automata Theory and Formal Languages (CS 373)</li>
+								<li>Computer Networks (CS 428)</li>
+								<li>Database Systems (CS 432)</li>
+								<li>Programming Languages (CS 471)</li>
+								<li>Game Development for Mobile Platforms (CS 441)</li>
+								<li>Design Patterns (CS 442)</li>
+							</ul>
 						</div>
-						
 					</div>
 				</div>
 				<div class="ARMB">
