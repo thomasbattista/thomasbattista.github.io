@@ -134,6 +134,11 @@ a:active {
 	margin-top: -20px;
 	margin-bottom: -20px;
 	overflow:auto;
+
+	clear: both;
+	overflow:auto;
+	
+	padding: 5px 20px 20px 20px;
 }
 
 div.gallery {
@@ -221,12 +226,10 @@ ul {
 	margin: 0;
     color: #090909;
 }
-
+/*
 .education
 {
-	/*background-image: url("photos/Bing_U.jpg");
-	From https://www.suny.edu/media/suny/content-assets/images/campus-profiles/pics/binghamton.jpg
-	background-size: cover;*/
+	background-size: cover;
 	background-position: bottom;
 	padding: 5px 20px 20px 20px;
 }
@@ -258,12 +261,11 @@ ul {
 {
 	clear: both;
 	overflow:auto;
-	/*background-color: #8b8099;*/
 	
 	padding: 5px 20px 20px 20px;
 	
 }
-/*
+
 #main-content
 {
 	position: relative;
