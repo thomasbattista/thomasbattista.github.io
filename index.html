@@ -15,6 +15,34 @@
 				btn.innerHTML = "Hide courses";
 			}
 		}
+
+		/*
+		var slideIndex = 1;
+		showSlides(slideIndex);
+		function currentSlide(n) 
+		{
+			showSlides(slideIndex = n);
+		}
+
+		function showSlides(n) 
+		{
+			var i;
+			var slides = document.getElementsByClassName("mySlides");
+			var dots = document.getElementsByClassName("demo");
+			var captionText = document.getElementById("caption");
+			if (n > slides.length) {slideIndex = 1}
+			if (n < 1) {slideIndex = slides.length}
+			for (i = 0; i < slides.length; i++) {
+				slides[i].style.display = "none";
+			}
+			for (i = 0; i < dots.length; i++) {
+				dots[i].className = dots[i].className.replace(" active", "");
+			}
+			slides[slideIndex-1].style.display = "block";
+			dots[slideIndex-1].className += " active";
+			captionText.innerHTML = dots[slideIndex-1].alt;
+		}
+		*/
 	</script>
 
 	<head>
@@ -83,24 +111,61 @@
 					<p>
 						During this project, I used Android Studio to code this application.  I created a home screen, kept track of the high score, and made sure the physics worked during this program.  After the semester ended, I added a difficulty modifier and kept track of the twenty highest scores.
 					</p>
+
+					<!--
+					<div class="mySlides">
+						<div class="numbertext">1 / 3</div>
+							<img src="photos/Avalanche_homescreen.png" style="width:60%; height:auto; padding-left: 15%; ">
+					</div>
+					<div class="mySlides">
+						<div class="numbertext">2 / 3</div>
+							<img src="photos/Avalanche_gameplay.png" style="width:60%; height:auto; padding-left: 15%; ">
+					</div>
+					<div class="mySlides">
+						<div class="numbertext">3 / 3</div>
+							<img src="photos/Avalanche_highscorescreen.png" style="width:60%; height:auto; padding-left: 15%; ">
+					</div>
+
+					<div class="caption-container">
+						<p id="caption"></p>
+					</div>
+
+					<div class="row">
+						<div class="column">
+							<img class="demo cursor" src="photos/Avalanche_homescreen.png" style="width:100%" onclick="currentSlide(1)" alt="Avalanche Home Screen">
+						</div>
+						<div class="column"> 
+							<img class="demo cursor" src="photos/Avalanche_gameplay.png" style="width:100%" onclick="currentSlide(2)" alt="Avalanche Gameplay">
+						</div>
+						<div class="column">
+							<img class="demo cursor" src="photos/Avalanche_highscorescreen.png" style="width:100%" onclick="currentSlide(3)" alt="Avalanche High Score Screen">
+					</div>
+					-->
+					
 					<div class="gallery">
 						<a target="_blank" href="photos/Avalanche_homescreen.png">
 							<img src="photos/Avalanche_homescreen.png" alt="Avalanche Home Screen" width=30% height=auto>
 							</a>
-						<div class="gal_desc">Avalanche Home Screen</div>
+						<div class="gal_desc">Home Screen</div>
 					</div>
 					<div class="gallery">
 						<a target="_blank" href="photos/Avalanche_gameplay.png">
-							<img src="photos/Avalanche_gameplay.png" alt="Avalanche Gameplay" width="300" height="200">
+							<img src="photos/Avalanche_gameplay.png" alt="Avalanche Gameplay" width=30% height=auto>
 						</a>
 						<div class="gal_desc">Avalanche Gameplay</div>
 					</div>
 					<div class="gallery">
 						<a target="_blank" href="photos/Avalanche_highscorescreen.png">
-							<img src="photos/Avalanche_highscorescreen.png" alt="Avalanche High Score Screen" width="300" height="200">
+							<img src="photos/Avalanche_highscorescreen.png" alt="Avalanche High Score Screen" width=30% height=auto>
 						</a>
 						<div class="gal_desc">High Score Screen</div>
 					</div>
+					<!--
+					<div class="big-img" id="big-img-ave">
+						<a target="_blank" href="photos/Avalanche_highscorescreen.png">
+							<img src="photos/Avalanche_highscorescreen.png" alt="Avalanche High Score Screen" width=75% height=auto>
+						</a>
+					</div>  -->
 				</div>
 				<div class="inner" id="baseball">
 					<h2 id="baseball-simulator"><a href="https://github.com/thomasbattista/BaseballSim">Baseball Simulator</a></h2>
@@ -108,20 +173,20 @@
 						In the Spring of 2015, I was a part of the HackBU club and they had a hackaton from March 20-22.  I decided to create a Baseball Simulation as I am interested in baseball.  I chose to code this in C++ as I wanted to gain more experience with it.  This program reads in a .csv file for each team with their players and their attributes.  It then generates a random number with values based on the players stats to create an outcome of each at bat.   
 					</p>
 					<div class="gallery">
-						<a target="_blank" href="photos/Baseball_sim1.png">
-							<img src="photos/Baseball_sim1.png" alt="Baseball Sim Pic1" width="300" height="200">
+						<a target="_blank" href="photos/Baseball_start.png">
+							<img src="photos/Baseball_start.png" alt="Baseball Simulator Game Start" width=30% height=auto>
 						</a>
 						<div class="gal_desc">Start of game</div>
 					</div>
 					<div class="gallery">
-						<a target="_blank" href="photos/Baseball_sim2.png">
-							<img src="photos/Baseball_sim2.png" alt="Baseball Sim Pic2" width="300" height="200">
+						<a target="_blank" href="photos/7th_inning.png">
+							<img src="photos/7th_inning.png" alt="Baseball Simulator Game End" width=30% height=auto>
 						</a>
-						<div class="gal_desc">6th inning</div>
+						<div class="gal_desc">7th inning</div>
 					</div>
 					<div class="gallery">
-						<a target="_blank" href="photos/Baseball_sim3.png">
-							<img src="photos/Baseball_sim3.png" alt="Baseball Sim Pic3" width="300" height="200">
+						<a target="_blank" href="photos/Baseball_finish.png">
+							<img src="photos/Baseball_finish.png" alt="Baseball Simulator Game End" width=30% height=auto>
 						</a>
 						<div class="gal_desc">End of Game</div>
 					</div>
@@ -133,19 +198,19 @@
 					</p>
 					<div class="gallery">
 						<a target="_blank" href="photos/Uno1.png">
-							<img src="photos/Uno1.png" alt="Uno1" width="300" height="200">
+							<img src="photos/Uno1.png" alt="Uno1" width=30% height=auto>
 						</a>
 						<div class="gal_desc">Selecting a card</div>
 					</div>
 					<div class="gallery">
 						<a target="_blank" href="photos/Uno2.png">
-							<img src="photos/Uno2.png" alt="Uno2" width="300" height="200">
+							<img src="photos/Uno2.png" alt="Uno2" width=30% height=auto>
 						</a>
 						<div class="gal_desc">Selecting a color after playing a wild card</div>
 					</div>
 					<div class="gallery">
 						<a target="_blank" href="photos/Uno3.png">
-							<img src="photos/Uno3.png" alt="Uno3" width="300" height="200">
+							<img src="photos/Uno3.png" alt="Uno3" width=30% height=auto>
 						</a>
 						<div class="gal_desc">What occurs after a player wins</div>
 					</div>
